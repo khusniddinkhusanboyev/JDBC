@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="kie.kogito.api.incubation.common.objectmapper" type="repository">
+    <properties maven-id="org.kie.kogito:kogito-api-incubation-common-objectmapper:2.0.0-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kogito/kogito-api-incubation-common-objectmapper/2.0.0-SNAPSHOT/kogito-api-incubation-common-objectmapper-2.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
